@@ -13,7 +13,7 @@ A desktop app for Simple Issue Tracker, for macOS and Windows.
 The latest version is on the [Releases](https://github.com/TypoStudio/issue-tracker-desktop/releases/latest) page. Direct links for 0.3.1:
 
 - macOS (Apple Silicon and Intel, 10.15 or later): [Simple-Issue-Tracker_0.3.1_macOS_universal.dmg](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_macOS_universal.dmg)
-- Windows (x64): [Simple-Issue-Tracker_0.3.1_Windows_x64.msi](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_Windows_x64.msi)
+- Windows (x64): [Simple-Issue-Tracker_0.3.1_Windows_x64-setup.exe](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_Windows_x64-setup.exe)
 
 Once installed, the app checks this repository for updates and verifies each download's signature before installing it.
 
@@ -43,7 +43,7 @@ This repository holds only installers and update files, not source code. Simple 
 최신 버전은 [Releases](https://github.com/TypoStudio/issue-tracker-desktop/releases/latest) 에 있습니다. 0.3.1 바로 받기:
 
 - macOS (Apple Silicon·Intel, 10.15 이상): [Simple-Issue-Tracker_0.3.1_macOS_universal.dmg](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_macOS_universal.dmg)
-- Windows (x64): [Simple-Issue-Tracker_0.3.1_Windows_x64.msi](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_Windows_x64.msi)
+- Windows (x64): [Simple-Issue-Tracker_0.3.1_Windows_x64-setup.exe](https://github.com/TypoStudio/issue-tracker-desktop/releases/download/v0.3.1/Simple-Issue-Tracker_0.3.1_Windows_x64-setup.exe)
 
 설치한 뒤에는 앱이 이 저장소에서 업데이트를 확인하고, 내려받은 파일의 서명을 확인한 뒤 설치합니다.
 
